@@ -1,0 +1,12 @@
+Building NiceCoin
+
+nicecoin
+NiceCoin
+
+See doc/readme-qt.rst for instructions on building NiceCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NiceCoin.
+
+See doc/build-*.txt for instructions on building nicecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of NiceCoin.
